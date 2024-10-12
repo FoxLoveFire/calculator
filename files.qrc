@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/calculate_27dp_000000_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>icons/backspace_24dp_F3F3F3_FILL0_wght400_GRAD0_opsz24.png</file>
+  </qresource>
+</RCC>
